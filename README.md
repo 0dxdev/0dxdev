@@ -13,6 +13,6 @@ I'm beginning a journey to build a github portfolio of all my projects that I wi
 
 ### Contact:
  **email:** dxdev.tech@gmail.com
-
-
+ **linkedin:** www.linkedin.com/in/dxdevtech
+ 
  If you are interested in some help for any projects, feel free to reach out to me.
