@@ -10,7 +10,7 @@ I’m currently building my GitHub portfolio as I work toward landing my first r
 
 ### What I'm currently learning:
   - Javascript
-  - 
+    
 I'm interested in contributing to projects, so feel free to reach out to me!
 
 ### Contact:
