@@ -4,9 +4,9 @@ I'm choosing to go by the name 0dxdev as I do not want my personal information e
 
 I'm beginning a journey to build a github portfolio of all my projects that I will have worked on to help land my first coding gig!
 
-What I've learned so far:
-  -HTML
-  -CSS
+### What I've learned so far:
+  - HTML
+  - CSS
 
-What I'm currently learning:
-  -Javascript
+### What I'm currently learning:
+  - Javascript
