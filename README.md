@@ -11,7 +11,8 @@ I’m currently building my GitHub portfolio as I work toward landing my first r
 ### What I'm currently learning:
   - Javascript
     
-I'm interested in contributing to projects, so feel free to reach out to me!
+I’m interested in contributing to projects and collaborating with others—feel free to reach out.
+
 
 ### Contact:
  📧dxdev.tech@gmail.com  
