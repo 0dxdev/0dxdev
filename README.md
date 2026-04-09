@@ -7,10 +7,8 @@ I’m currently building my GitHub portfolio as I work toward landing my first r
 ### What I've learned so far:
   - HTML
   - CSS
-
-### What I'm currently learning:
   - Javascript
-    
+  
 I’m interested in contributing to projects and collaborating with others—feel free to reach out.
 
 
