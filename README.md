@@ -2,7 +2,7 @@
 
 I go by 0dxdev as I prefer to keep my personal information private.  
 
-I’m currently building my GitHub portfolio as I work toward landing my first role in software development. I’m focused on creating projects that showcase my skills and growth as a developer.
+I’m currently building my GitHub portfolio as I work toward landing my first role in web development. I’m focused on creating projects that showcase my skills and growth as a developer.
 
 ### What I've learned so far:
   - HTML
